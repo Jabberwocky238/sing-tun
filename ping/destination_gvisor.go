@@ -13,7 +13,7 @@ import (
 	"github.com/sagernet/gvisor/pkg/tcpip/stack"
 	"github.com/sagernet/gvisor/pkg/tcpip/transport"
 	"github.com/sagernet/gvisor/pkg/waiter"
-	"github.com/sagernet/sing-tun"
+	"github.com/jabberwocky238/sing-tun"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/buf"
 	E "github.com/sagernet/sing/common/exceptions"

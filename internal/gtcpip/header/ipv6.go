@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"net/netip"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip"
 )
 
 const (

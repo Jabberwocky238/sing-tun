@@ -13,9 +13,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/sagernet/sing-tun/internal/winipcfg"
-	"github.com/sagernet/sing-tun/internal/winsys"
-	"github.com/sagernet/sing-tun/internal/wintun"
+	"github.com/jabberwocky238/sing-tun/internal/winipcfg"
+	"github.com/jabberwocky238/sing-tun/internal/winsys"
+	"github.com/jabberwocky238/sing-tun/internal/wintun"
 	"github.com/sagernet/sing/common"
 	E "github.com/sagernet/sing/common/exceptions"
 	"github.com/sagernet/sing/common/windnsapi"

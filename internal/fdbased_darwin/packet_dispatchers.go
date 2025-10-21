@@ -19,8 +19,8 @@ import (
 	"github.com/sagernet/gvisor/pkg/tcpip"
 	"github.com/sagernet/gvisor/pkg/tcpip/stack"
 	"github.com/sagernet/gvisor/pkg/tcpip/stack/gro"
-	"github.com/sagernet/sing-tun/internal/rawfile_darwin"
-	"github.com/sagernet/sing-tun/internal/stopfd_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/rawfile_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/stopfd_darwin"
 
 	"golang.org/x/sys/unix"
 )

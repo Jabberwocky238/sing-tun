@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sagernet/sing-tun"
-	"github.com/sagernet/sing-tun/internal/gtcpip/header"
+	"github.com/jabberwocky238/sing-tun"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip/header"
 	"github.com/sagernet/sing/common/buf"
 	"github.com/sagernet/sing/common/control"
 	E "github.com/sagernet/sing/common/exceptions"

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sagernet/sing-tun/ping"
+	"github.com/jabberwocky238/sing-tun/ping"
 	"github.com/sagernet/sing/common/logger"
 
 	"github.com/stretchr/testify/require"

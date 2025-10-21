@@ -6,8 +6,8 @@ import (
 	"github.com/sagernet/gvisor/pkg/tcpip/header"
 	"github.com/sagernet/gvisor/pkg/tcpip/link/qdisc/fifo"
 	"github.com/sagernet/gvisor/pkg/tcpip/stack"
-	"github.com/sagernet/sing-tun/internal/fdbased_darwin"
-	"github.com/sagernet/sing-tun/internal/rawfile_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/fdbased_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/rawfile_darwin"
 
 	"golang.org/x/sys/unix"
 )

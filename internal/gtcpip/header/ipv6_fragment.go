@@ -17,7 +17,7 @@ package header
 import (
 	"encoding/binary"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"net/netip"
 	"syscall"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip/header"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip/header"
 	"github.com/sagernet/sing/common"
 )
 

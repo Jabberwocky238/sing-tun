@@ -18,8 +18,8 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip"
-	"github.com/sagernet/sing-tun/internal/gtcpip/checksum"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip/checksum"
 )
 
 const (

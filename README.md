@@ -4,6 +4,12 @@ Simple transparent proxy library.
 
 For Linux, Windows, macOS and iOS.
 
+## Installation
+
+```bash
+go get github.com/jabberwocky238/sing-tun
+```
+
 ## License
 
 ```

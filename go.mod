@@ -1,4 +1,4 @@
-module github.com/sagernet/sing-tun
+module github.com/jabberwocky238/sing-tun
 
 go 1.24.7
 

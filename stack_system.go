@@ -8,8 +8,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip/checksum"
-	"github.com/sagernet/sing-tun/internal/gtcpip/header"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip/checksum"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip/header"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/buf"
 	"github.com/sagernet/sing/common/control"
@@ -20,7 +20,7 @@ import (
 	"github.com/sagernet/sing/common/udpnat2"
 )
 
-var ErrIncludeAllNetworks = E.New("`system` and `mixed` stack are not available when `includeAllNetworks` is enabled. See https://github.com/SagerNet/sing-tun/issues/25")
+var ErrIncludeAllNetworks = E.New("`system` and `mixed` stack are not available when `includeAllNetworks` is enabled. See https://github.com/jabberwocky238/sing-tun/issues/25")
 
 type System struct {
 	ctx                  context.Context

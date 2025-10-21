@@ -46,7 +46,7 @@ import (
 	"github.com/sagernet/gvisor/pkg/tcpip"
 	"github.com/sagernet/gvisor/pkg/tcpip/header"
 	"github.com/sagernet/gvisor/pkg/tcpip/stack"
-	"github.com/sagernet/sing-tun/internal/rawfile_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/rawfile_darwin"
 	"github.com/sagernet/sing/common"
 
 	"golang.org/x/sys/unix"

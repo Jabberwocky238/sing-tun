@@ -9,9 +9,9 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip/header"
-	"github.com/sagernet/sing-tun/internal/rawfile_darwin"
-	"github.com/sagernet/sing-tun/internal/stopfd_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/gtcpip/header"
+	"github.com/jabberwocky238/sing-tun/internal/rawfile_darwin"
+	"github.com/jabberwocky238/sing-tun/internal/stopfd_darwin"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/buf"
 	E "github.com/sagernet/sing/common/exceptions"
